@@ -1,3 +1,7 @@
-# studyNotes
-打算以后用改变笔记形式，并且使用mvarkdown语法，发现没有很好支持 markDown 编辑，保存的软件
-那就索性用 编辑器编辑，保存在 GitHub
+# 首页
+
+就是觉得好玩，2019年升级一下自己笔记方式
+放弃2018笔记，放弃以周纬度记笔记
+```JavaScript
+let Happy = 'New StudyNotes'
+```
