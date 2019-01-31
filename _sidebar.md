@@ -1,3 +1,4 @@
 - [首页](/)
 - [es6](ES6/)
   - [let 和 const 命令](ES6/let.md)
+  - [变量的解构赋值](ES6/destructuring.md)
