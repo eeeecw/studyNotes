@@ -2,3 +2,5 @@
 - [es6](ES6/)
   - [let 和 const 命令](ES6/let.md)
   - [变量的解构赋值](ES6/destructuring.md)
+  - [字符串的扩展](ES6/string.md)
+  - [正则的扩展](ES6/regex.md)
