@@ -4,3 +4,4 @@
   - [变量的解构赋值](ES6/destructuring.md)
   - [字符串的扩展](ES6/string.md)
   - [正则的扩展](ES6/regex.md)
+  - [数值的扩展](ES6/number.md)
