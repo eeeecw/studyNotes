@@ -5,3 +5,4 @@
   - [字符串的扩展](ES6/string.md)
   - [正则的扩展](ES6/regex.md)
   - [数值的扩展](ES6/number.md)
+  - [Class 的基本语法](ES6/class.md)
